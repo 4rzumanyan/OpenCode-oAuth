@@ -43,4 +43,4 @@ This will open your browser to complete the OAuth flow.
 
 ### 5. Done!
 
-The auth tokens are stored in `~/.opencode/mcp-auth.json` and will work with your regular OpenCode installation. You can now use the MCP server with vanilla OpenCode - you don't need this branch anymore.
+The auth tokens are stored in `~/.opencode/mcp-auth.json` `~/.local/share/opencode/mcp-auth.json` or  and will work with your regular OpenCode installation. You can now use the MCP server with vanilla OpenCode - you don't need this branch anymore.
